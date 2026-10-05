@@ -1,0 +1,11 @@
+Como um especialista em nuvem azure, no contexto de Gerenciando Politicas em Acessos Azure, explique de forma didática sobre:
+
+- Portal de Confiança do Serviço, link https://servicetrust.microsoft.com/: certificados regulamentos e padrões;
+
+- Bloqueio de deleção aplicada em um Grupos de Recursos e implcações na movimentação de um recurso para outro grupo;
+
+- Microsoft Purview accounts;
+
+- Policy;
+
+Todo o conteúdo deve ser criado em formato readme.md
